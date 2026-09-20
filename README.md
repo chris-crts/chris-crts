@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img alt="THE DRAFTING ROOM" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1220&height=280&section=header&text=THE%20DRAFTING%20ROOM&fontSize=62&fontColor=00E5FF&stroke=1F4E8C&strokeWidth=2&fontAlignY=36&animation=fadeIn&desc=%E2%97%A4%20CHRISTOPHER%20CORTES%20%C2%B7%20CYBERSECURITY%20ENTHUSIAST%20SOFTWARE%20DEVELOPER%20%E2%97%A2&descSize=16&descAlignY=58">
+<img alt="THE DRAFTING ROOM" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A1220&height=280&section=header&text=THE%20DRAFTING%20ROOM&fontSize=62&fontColor=00E5FF&stroke=1F4E8C&strokeWidth=2&fontAlignY=36&animation=fadeIn&desc=%E2%97%A4%20CHRISTOPHER%20CORTES%20%C2%B7%20CYBERSECURITY%20ENTHUSIAST%20|%20SOFTWARE%20DEVELOPER%20%E2%97%A2&descSize=16&descAlignY=58">
 
 <img alt="typing tagline" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=700&height=40&lines=%3E+booting+drafting_room.exe+...;%3E+engineer+of+scalable+%26+secure+apps;%3E+trace+%E2%86%92+verify+%E2%86%92+prove+%E2%86%92+ship;%3E+STATUS%3A+OPEN+FOR+COLLAB">
 
