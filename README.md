@@ -36,11 +36,8 @@
 ```text
 ╔═ FILE No. CC-2026 ═══════════════════════════════
 ║ NAME        Christopher Cortes
-║ ROLE        Junior Software Developer, UpUp-App Technologies
 ║ FOCUS       Secure web apps · AI integration · Security tooling
-║ EDUCATION   B.S. Computer Science (Batch 2026)
-║ BASE        Masbate City, Philippines
-║ EXPERIENCE  2+ years freelance · 10+ shipped projects
+║ EXPERIENCE  4+ years freelance · 10+ shipped projects
 ╚══════════════════════════════════════════════════
 ```
 
