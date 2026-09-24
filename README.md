@@ -65,18 +65,6 @@ I build web and mobile applications where **security is part of the design, not 
 
 ---
 
-## `CASE INDEX` · Selected Files
-
-| File | Case | Objective | Stack | Status |
-| :---: | --- | --- | --- | :---: |
-| **№002** | **Netwatch SOC System** | LAN-based SOC that enumerates devices and detects Nmap scans, port probing and suspicious downloads | Django · IDS/IPS · Port Mirroring | [`OPEN REPO`](https://github.com/chris-crts/Netwatch-SOC) |
-| **№003** | **AI Clinical Management System** | Appointments, EHR and inventory with BioBERT semantic search and a BioGPT RAG chatbot | Django · PostgreSQL · RAG · RBAC | `PRIVATE` |
-| **№004** | **E-Invoicing & Verification** | Non-VAT invoices with QR verification and tamper-evident records (capstone) | Django · REST API · PostgreSQL | [`LIVE`](https://nontaxinvoiceproof.pythonanywhere.com/) |
-| **№005** | **AI Mobile Application** | Natural-language interface powered by OpenAI's API | React Native · Django · OpenAI API | [`OPEN REPO`](https://github.com/Wawayooo/Ai_Search) |
-| **№006** | **Class Voting System** | Student ID auth, admin panel, nominate → campaign → vote → results | Hono.js · PostgreSQL | `PRIVATE` |
-
-<sub>More client and promotional builds are archived on the portfolio site.</sub>
-
 ---
 
 ## `FIELD KIT` · Instruments
