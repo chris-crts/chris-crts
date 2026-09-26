@@ -59,7 +59,7 @@ I build web and mobile applications where **security is part of the design, not 
 ║             and requires human sign-off.
 ║ EVIDENCE    Attack-surface discovery · Evidence collection
 ║             · Audit trail & traceable reporting
-║ STACK       Python · Django · PostgreSQL · React · LLM APIs
+║ STACK       Python · Django · FastAPI · PostgreSQL · React · LLM APIs
 ╚═══════════════════════════════════════════════════════
 ```
 
