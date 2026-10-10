@@ -53,7 +53,7 @@ Right now I'm designing security tooling for the people big vendors overlook: **
 
 <div align="center">
 
-<img src="anterior_security_banner.gif" alt="Anterior-Security — verified findings, human-approved, audit-logged" width="100%" />
+<img src="anteriorsecurity_banner.gif" alt="Anterior-Security — verified findings, human-approved, audit-logged" width="100%" />
 
 </div>
 
