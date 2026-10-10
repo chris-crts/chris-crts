@@ -77,7 +77,7 @@ The platform is designed around one principle: **no action runs without authoriz
 
 Destructive writes, credential brute force, denial-of-service-style load, exfiltration of real user data, and any action outside scope or against an unverified target are permanently forbidden and cannot be enabled through configuration.
 
-<img src="https://chris-crts-page.netlify.app/media/workspace/main_dash_dark.png" alt="Anterior-Security dashboard" width="100%" />
+<img src="https://chris-crts-page.netlify.app/media/workspace/app_dash.png" alt="Anterior-Security dashboard" width="100%" />
 
 ```text
 ╔═ CASE FILE №001 ═══════════════════ [ PRIVATE REPO · v2 ]
