@@ -79,8 +79,6 @@ Destructive writes, credential brute force, denial-of-service-style load, exfilt
 
 ## 📸 Anterior Security Screens
 
-[← Previous](#app_dash) | [Next →](#register_page)
-
 <img id="sign_in_page" src="./sign_in_page.png" alt="Anterior-Security Sign In" width="100%" />
 <img id="register_page" src="./register_page.png" alt="Anterior-Security Register" width="100%" />
 <img id="app_dash" src="./app_dash.png" alt="Anterior-Security Dashboard" width="100%" />
