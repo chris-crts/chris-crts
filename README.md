@@ -77,14 +77,6 @@ The platform is designed around one principle: **no action runs without authoriz
 
 Destructive writes, credential brute force, denial-of-service-style load, exfiltration of real user data, and any action outside scope or against an unverified target are permanently forbidden and cannot be enabled through configuration.
 
-## 📸 Anterior Security Screens
-
-<img id="sign_in_page" src="./sign_in_page.png" alt="Anterior-Security Sign In" width="100%" />
-<img id="register_page" src="./register_page.png" alt="Anterior-Security Register" width="100%" />
-<img id="app_dash" src="./app_dash.png" alt="Anterior-Security Dashboard" width="100%" />
-<img id="dashboard_dark_mode" src="./dashboard_dark_mode.png" alt="Anterior-Security Dark Mode" width="100%" />
-
-
 ```text
 ╔═ CASE FILE №001 ═══════════════════ [ PRIVATE REPO · v2 ]
 ║ CODENAME    ANTERIOR-SECURITY (An-Sec) — Verified-Findings Platform
